@@ -1,4 +1,4 @@
-Sistem Manajemen Toko Tanaman Hias
+# Sistem Manajemen Toko Tanaman Hias
 
 Tamaniku adalah sistem manajemen toko tanaman hias yang responsif dengan fitur lengkap untuk admin dan customer.
 
