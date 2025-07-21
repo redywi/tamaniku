@@ -1,4 +1,4 @@
-# Tamaniku - Sistem Manajemen Toko Tanaman Hias
+<img width="949" height="437" alt="Cuplikan layar 2025-07-21 224759" src="https://github.com/user-attachments/assets/4051a856-217d-4e7a-af34-1fdbd2a2d5b0" /># Tamaniku - Sistem Manajemen Toko Tanaman Hias
 
 Tamaniku adalah sistem manajemen toko tanaman hias yang responsif dengan fitur lengkap untuk admin dan customer.
 
@@ -24,6 +24,13 @@ Tamaniku adalah sistem manajemen toko tanaman hias yang responsif dengan fitur l
 - **Web Server**: Apache/Nginx dengan PHP 7.4+
 - **Database**: MySQL 5.7+ atau MariaDB 10.3+
 - **Browser**: Chrome, Firefox, Safari, Edge (versi terbaru)
+
+## 📋 Screenshoot
+
+- **Web Server**:
+- <img width="951" height="436" alt="Cuplikan layar 2025-07-21 224826" src="https://github.com/user-attachments/assets/531b5389-938f-4df6-8eca-de2023b433bd" />
+- <img width="949" height="437" alt="Cuplikan layar 2025-07-21 224759" src="https://github.com/user-attachments/assets/14897662-1e41-4a29-883a-8ba5fe9a7e75" />
+- <img width="935" height="445" alt="Cuplikan layar 2025-07-21 224903" src="https://github.com/user-attachments/assets/b52f931e-0e52-44f3-a0ee-e3233e768b70" />
 
 ## 🛠️ Instalasi
 
