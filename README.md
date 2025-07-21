@@ -1,4 +1,4 @@
-<img width="949" height="437" alt="Cuplikan layar 2025-07-21 224759" src="https://github.com/user-attachments/assets/4051a856-217d-4e7a-af34-1fdbd2a2d5b0" /># Tamaniku - Sistem Manajemen Toko Tanaman Hias
+Sistem Manajemen Toko Tanaman Hias
 
 Tamaniku adalah sistem manajemen toko tanaman hias yang responsif dengan fitur lengkap untuk admin dan customer.
 
